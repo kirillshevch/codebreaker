@@ -19,4 +19,5 @@ Or install it yourself as:
 ## Usage
 
 Test game:
+
     $ ruby main.rb
